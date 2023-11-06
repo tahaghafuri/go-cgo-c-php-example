@@ -6,7 +6,7 @@ Those code example shows not only long travel between go and php, but also compl
 
 ## NOTE
 
-This example is based on PHP 8.0.2.
+This example is based on PHP 8.
 
 PHP changes its interface for extension frequently.
 
